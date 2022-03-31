@@ -1,5 +1,5 @@
 import React from 'react';
-import camera from '../Header/camera.svg';
+import camera from './camera.svg';
 
 const Header = () => {
     return (

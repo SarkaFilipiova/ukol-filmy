@@ -14,3 +14,38 @@ html {
   height: 1em;
   margin-right: 0.3em;
 }
+
+body {
+  background-color: rgb(212, 212, 212);
+  padding-left: 5em;
+  padding-left: 5em;
+}
+
+.movies {
+  background-color: white;
+  width: 450px;
+  padding: 10px;
+  display: flex;
+
+}
+
+.movieList {
+  display:flex;
+  gap: 1px;
+  flex-wrap: wrap;
+}
+
+.image {
+  max-width: 200px;
+  padding-right: 15px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
